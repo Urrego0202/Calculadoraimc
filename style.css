@@ -27,7 +27,7 @@ body {
   flex-direction: column;
   gap: 7px;
   position: relative;
-  color: white;
+  color: black;
 }
 
 .container .label {
